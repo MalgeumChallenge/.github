@@ -19,10 +19,10 @@
 
 
 ## :hatching_chick: 참여자
-| 김연희 | 이시현 | 이원정 |
-|---------------------------------|---------------------------------|---------------------------------|
-| <p align="center">[Yeori](https://github.com/Yeonhee-Kim)</p> | <p align="center">[halee](https://github.com/itshihi)</p> | <p align="center">[malangDubu](https://github.com/malangDubu)</p> |
-| <p align="center"><img src="https://github.com/Yeonhee-Kim.png" width="40%" /></p> | <p align="center"><img src="https://github.com/itshihi.png" width="40%" /></p> | <p align="center"><img src="https://github.com/malangDubu.png" width="40%" /></p> |
+| 김연희 | 이시현 | 이원정 | 장준영 |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| <p align="center">[Yeori](https://github.com/Yeonhee-Kim)</p> | <p align="center">[halee](https://github.com/itshihi)</p> | <p align="center">[malangDubu](https://github.com/malangDubu)</p> | <p align="center">[galaxyhitchiker](https://github.com/galaxyhitchiker)</p> |
+| <p align="center"><img src="https://github.com/Yeonhee-Kim.png" width="40%" /></p> | <p align="center"><img src="https://github.com/itshihi.png" width="40%" /></p> | <p align="center"><img src="https://github.com/malangDubu.png" width="40%" /></p> | <p align="center"><img src="https://github.com/galaxyhitchiker.png" width="40%" /></p> |
 
 
 
