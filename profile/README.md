@@ -19,15 +19,21 @@
 
 
 ## :hatching_chick: 참여자
+
+<div align="center">
+
 | 김연희 | 이시현 | 이원정 | 장준영 |
-|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
 | <p align="center">[Yeori](https://github.com/Yeonhee-Kim)</p> | <p align="center">[halee](https://github.com/itshihi)</p> | <p align="center">[malangDubu](https://github.com/malangDubu)</p> | <p align="center">[galaxyhitchiker](https://github.com/galaxyhitchiker)</p> |
 | <p align="center"><img src="https://github.com/Yeonhee-Kim.png" width="40%" /></p> | <p align="center"><img src="https://github.com/itshihi.png" width="40%" /></p> | <p align="center"><img src="https://github.com/malangDubu.png" width="40%" /></p> | <p align="center"><img src="https://github.com/galaxyhitchiker.png" width="40%" /></p> |
 
-| 김도윤 |
-|---------------------------------|
-| <p align="center">[vestoon](https://github.com/vestoon)</p> |
-| <p align="center"><img src="https://github.com/vestoon.png" width="40%" /></p> |
+| 김도윤 | 최승혁  |
+|:---------------------------------:|:---------------------------------:|
+| <p align="center">[vestoon](https://github.com/vestoon)</p> | <p align="center">[](https://github.com/)</p> |
+| <p align="center"><img src="https://github.com/vestoon.png" width="20%" /></p> | <p align="center"><img src="https://github.com/vestoon.png" width="20%" /></p> |
+
+</div>
+
 
 <br/>
 
