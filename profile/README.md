@@ -30,7 +30,7 @@
 | 김도윤 | 최승혁  |
 |:---------------------------------:|:---------------------------------:|
 | <p align="center">[vestoon](https://github.com/vestoon)</p> | <p align="center">[coldbrew](https://github.com/ColdTbrew)</p> |
-| <p align="center"><img src="https://github.com/vestoon.png" width="20%" /></p> | <p align="center"><img src="https://github.com/vestoon.png" width="20%" /></p> |
+| <p align="center"><img src="https://github.com/vestoon.png" width="20%" /></p> | <p align="center"><img src="https://github.com/ColdTbrew.png" width="20%" /></p> |
 
 </div>
 
