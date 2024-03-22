@@ -27,10 +27,15 @@
 | <p align="center">[Yeori](https://github.com/Yeonhee-Kim)</p> | <p align="center">[halee](https://github.com/itshihi)</p> | <p align="center">[malangDubu](https://github.com/malangDubu)</p> | <p align="center">[galaxyhitchiker](https://github.com/galaxyhitchiker)</p> |
 | <p align="center"><img src="https://github.com/Yeonhee-Kim.png" width="40%" /></p> | <p align="center"><img src="https://github.com/itshihi.png" width="40%" /></p> | <p align="center"><img src="https://github.com/malangDubu.png" width="40%" /></p> | <p align="center"><img src="https://github.com/galaxyhitchiker.png" width="40%" /></p> |
 
-| 김도윤 | 최승혁  |
-|:---------------------------------:|:---------------------------------:|
-| <p align="center">[vestoon](https://github.com/vestoon)</p> | <p align="center">[coldbrew](https://github.com/ColdTbrew)</p> |
-| <p align="center"><img src="https://github.com/vestoon.png" width="20%" /></p> | <p align="center"><img src="https://github.com/ColdTbrew.png" width="20%" /></p> |
+| 김도윤 | 최승혁 | 정봉기 | 이진중 |
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+| <p align="center">[vestoon](https://github.com/vestoon)</p> | <p align="center">[coldbrew](https://github.com/ColdTbrew)</p> | <p align="center">[BONG-KI](https://github.com/JB0527)</p> | <p align="center">[hereokay](https://github.com/hereokay)</p> |
+| <p align="center"><img src="https://github.com/vestoon.png" width="40%" /></p> | <p align="center"><img src="https://github.com/ColdTbrew.png" width="40%" /></p> | <p align="center"><img src="https://github.com/JB0527.png" width="40%" /></p> | <p align="center"><img src="https://github.com/hereokay.png" width="40%" /></p> |
+
+| 김도담 | 정동주 | 권순욱 |
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+| <p align="center">[eheka78](https://github.com/Dodam1st)</p> | <p align="center">[lhoju](https://github.com/lhoju)</p> | <p align="center">[sunoogy99](https://github.com/sunoogy99)</p> |
+| <p align="center"><img src="https://github.com/Dodam1st.png" width="40%" /></p> | <p align="center"><img src="https://github.com/lhoju.png" width="40%" /></p> | <p align="center"><img src="https://github.com/sunoogy99.png" width="40%" /></p> |
 
 </div>
 
